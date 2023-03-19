@@ -27,9 +27,5 @@ Full_block: This function returns the count of each block type in a full-block s
 Outer_block: This function returns the count of each block type in an outer-block shape.
 L_shape: This function returns the count of each block type in an L-shape.
 apply_function: This function applies a given function to the current Landscape state and returns the result.
-Approach:
-
-Input parameters extraction:
-The input parameters are extracted and preprocessed using a Python function. The landscape is divided into regions, and the tiles and targets for each region are extracted. The input is then processed to replace spaces with 'x' to create a two-dimensional array.
 
 
